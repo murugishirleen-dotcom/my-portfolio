@@ -31,6 +31,16 @@ export default function Contact() {
         >
           💻 GitHub
         </a>
+
+        <a 
+          href="https://murugishirleen-dotcom.github.io/my-portfolio/" 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          className="contact-btn"
+        >
+         🌍 View Portfolio
+        </a>
+
       </div>
     </section>
   )

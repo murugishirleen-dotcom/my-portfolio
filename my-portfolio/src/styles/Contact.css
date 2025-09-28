@@ -24,9 +24,16 @@
   font-weight: 600;
   border-radius: 8px;
   text-decoration: none;
-  color: white;
+  color: black;
   transition: transform 0.2s ease, background 0.3s ease;
 }
+
+.portfolio {
+  background: #4caf50; /* green button */
+  color: white;        /* force visible text */
+}
+
+
 
 /* Hover effect */
 .contact-btn:hover {
